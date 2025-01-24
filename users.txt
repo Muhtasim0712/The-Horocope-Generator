@@ -1,0 +1,14 @@
+Nimu,28,10,2003,Scorpio,Water,Fixed
+Muhtasim,7,12,2005,Sagittarius,Fire,Mutable
+Nishad,29,5,2003,Gemini,Air,Mutable
+Ikram,0,11,2001,Scorpio,Water,Fixed
+Galib,12,7,2005,Cancer,Water,Cardinal
+Farhan Galib,12,12,2012,Sagittarius,Fire,Mutable
+Farhan Shahriar Galib,12,12,2012,Sagittarius,Fire,Mutable
+Amir Mahmud Sami,28,2,2004,Pisces,Water,Mutable
+Farhan Shahriar Galib,11,12,2012,Sagittarius,Fire,Mutable
+Khalid,14,7,2005,Cancer,Water,Cardinal
+Khalid,12,7,2005,Cancer,Water,Cardinal
+Khalid,14,12,2005,Sagittarius,Fire,Mutable
+Khalid,14,8,2005,Leo,Fire,Fixed
+Khalid,13,7,2005,Cancer,Water,Cardinal
